@@ -52,7 +52,7 @@ db.cafes.insertMany ([
     specials: ["breakfast", "tea"]
   },
   {
-    _id: "polllys",
+    _id: "pollys",
     name: "Polly's Pizza Parlour",
     seats: 50,
     vegan: false,
